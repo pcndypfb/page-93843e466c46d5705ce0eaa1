@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "4857a62f9bda6c178cd20149",
+  "owner": "pcndypfb",
+  "repo": "page-93843e466c46d5705ce0eaa1",
+  "title": "clash verge官网中文",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "93843e466c46d5705ce0eaa1",
+      "a": "东方网络",
+      "b": "clash verge官网中文",
+      "entity": "东方网络",
+      "brand": "clash verge官网中文",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "fd5e1cd4edc2a2e7be66af41196793d2075e15efc9b2e564af953f1274a71a14",
+      "content": {
+        "primary_entity": "东方网络",
+        "keyword1": "东方网络",
+        "keyword2": "clash verge官网中文",
+        "content": {
+          "AI_CLIENTS_INTRO": "客户端适配按系统选择：Windows 与 macOS 可搭配 Clash Verge，移动端可选用 Shadowrocket 或 Clash Meta 类工具。",
+          "AI_CLIENTS_TITLE": "设备与客户端搭配",
+          "AI_CLOSING_TEXT": "先根据设备数量与流量需求锁定套餐，再按客户端文档导入订阅，即可开始使用东方网络的加速线路。",
+          "AI_CLOSING_TITLE": "选对套餐再上手",
+          "AI_DESCRIPTION": "，东方网络提供基础版、旗舰版与团队版三档方案，月付分别为 ¥15、¥35、¥85，按年付则对应 ¥150、¥350、¥850。基础版每月 100GB 流量、支持 3 台设备在线；旗舰版每月 300GB、支持 5 台设备，并加入 IPLC 专线游戏加速优化与 7x24 优先工单支持；团队版每月 1000GB、支持 20 台设备，提供 VIP 专属高带宽节点与企业定制路由。对经常跨设备切换的用户，先确认日常在线设备数与月度流量，再挑选匹配档位更实际。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与订阅周期三个角度快速判断适合自己的方案。",
+          "AI_FEATURES_TITLE": "套餐选择与订阅要点",
+          "AI_FEATURE_TEXT_1": "基础版适合 3 台以内设备、每月 100GB 流量的轻度使用场景。",
+          "AI_FEATURE_TEXT_2": "旗舰版覆盖 5 台设备与 300GB 流量，含 IPLC 专线优化与优先工单。",
+          "AI_FEATURE_TEXT_3": "团队版支持 20 台设备与 1000GB 流量，可做企业定制路由配置。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TITLE_2": "按月流量定级",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_GUIDE_INTRO": "从确定套餐到完成订阅导入，按设备与客户端文档逐步配置即可。",
+          "AI_GUIDE_TITLE": "使用配置三步走",
+          "AI_HERO_INTRO": "东方网络面向海外加速场景，提供基础版、旗舰版与团队版三档套餐，月付与年付均可选。按设备数量与每月流量匹配档位，再结合 Clash Verge 等客户端文档导入订阅，即可开始使用。",
+          "AI_HERO_SUBTITLE": "东方网络海外加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月付 ¥15 起，年付更省",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线加速",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，适合 3 台设备与 100GB 流量；旗舰版 ¥35/月或 ¥350/年，支持 5 台设备、300GB 流量与 IPLC 专线；团队版 ¥85/月或 ¥850/年，支持 20 台设备、1000GB 流量与企业定制路由。对比设备数与流量额度后即可选定。",
+          "AI_PLANS_TITLE": "套餐对比与价格参考",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，在基础版、旗舰版、团队版之间确定一档。",
+          "AI_STEP_TEXT_2": "核对套餐里的设备上限、流量额度与线路类型，确认是否满足流媒体或游戏加速场景。",
+          "AI_STEP_TEXT_3": "在 Clash Verge 或其他客户端中按对应文档导入订阅信息，完成线路配置后连接使用。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "东方网络加速套餐一览",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，旗舰版为5台，团队版为20台。若日常在手机、电脑、平板间切换，可先按常用设备数量选择，后续需求增加再升级套餐。",
+          "AI_FAQ_ANSWER_2": "月付适合短期体验，基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月。若打算长期使用，按年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FAQ_ANSWER_3": "以客户端文档给出的地址为准，复制订阅链接后粘贴到客户端导入界面，保存并更新节点列表即可。若导入失败，检查链接是否完整、网络是否正常，再重新粘贴一次。",
+          "AI_FAQ_ANSWER_4": "旗舰版面向流媒体与游戏场景，提供全节点原生流媒体解锁和 IPLC 专线游戏加速优化。基础版解锁基础流媒体，团队版则侧重多设备与高带宽节点。",
+          "AI_FAQ_ANSWER_5": "先看设备数量，再看月流量。单人手机电脑用基础版即可；常看流媒体或用游戏加速可选旗舰版；多设备或小型团队建议团队版，1000GB 流量与20台设备更充裕。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "月付和年付怎么选更划算？",
+          "AI_FAQ_QUESTION_3": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "旗舰版的流媒体和游戏加速适合哪些场景？",
+          "AI_FAQ_QUESTION_5": "怎么判断该选基础版、旗舰版还是团队版？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "6707240c00952b8fd6a6d1adfd9812ece7813aa4255364c089f2ccc6d21b1323",
+    "sitemap.xml": "019e8d128fbb88004aa8be11da39a79e0342d89a4fdb390571e1276944ea9f03",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "773c21259f2e5a778a297bc6082e2fff75c877929a8441be3199a705e383957b"
+}
